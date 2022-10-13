@@ -1,0 +1,54 @@
+/*Hoja de estilos*/
+
+.container1 {
+	color: white;
+	background-color: #02595b;
+}
+.container {
+	background-color: #d0f8f9;
+}
+/*
+#entorno {
+
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+  }
+
+@media (min-width: 768px){
+	#entorno {display: grid;}
+    #entorno {
+      grid-template-columns: repeat(2, 1fr);
+      column-gap: 2rem;
+    }
+  }
+
+  @media (min-width: 768px){
+	#fondo{ width: 100%;}
+  }
+
+  */
+#entorno {
+	
+	display: block;
+	margin: 0 auto;
+}
+
+#fondo {
+	
+	opacity: 0.3;
+}
+
+.footer{
+	color: white;
+	background-color: #02595b;
+}
+
+.gbimg{
+	background-color: #02595b;
+}
+
+p{
+	font-size: 1.2rem;
+}
+
